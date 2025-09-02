@@ -16,8 +16,7 @@ A simple Python program to calculate the volume of different 3D shapes.
    ```bash
    python volume_calculator.py
 Example
-mathematica
-Copiar código
+
 [ 1 ] Prism
 [ 2 ] Cylinder
 Which shape do you want to calculate the volume of?: 2
